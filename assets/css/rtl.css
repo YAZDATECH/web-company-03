@@ -1,0 +1,19 @@
+body{
+    font-family: 'Sahel', sans-serif;
+}
+.nav{
+    direction: rtl;
+}
+.header-area .main-nav .nav li.submenu ul li a {
+    direction: rtl;
+    text-align: right;
+    padding-right: 20px;
+    padding-left: 0px;
+}
+.rtl{
+    direction: rtl;
+    text-align: right;
+}
+.header-area .main-nav .nav{
+    margin-left: 12%!important;
+}
